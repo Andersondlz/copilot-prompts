@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>IA Mentor de Carreira: Descubra seu Futuro em Tech</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -24,13 +24,13 @@
     <td>
         <p align="center">Expert</p>
         <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <img src="https://avatars.githubusercontent.com/u/106833276?s=400&u=f9195493240f54d492c69222ef7474e00c9670c0&v=4" alt="https://github.com/Andersondlz/Andersondlz"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
+    <p>🎉 Aluno da DIO a mais de 2 anos.
       <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
+     🌟 Desenvolvedor fullstack
       <br/>
     👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
     </p>
